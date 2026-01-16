@@ -1,0 +1,2 @@
+{"timestamp":"0001-01-01T00:00:00Z","src_ip":"[::1]:47356","src_port":0,"dst_port":0,"protocol":"tcp","raw_payload":"hello there\n"}
+{"timestamp":"0001-01-01T00:00:00Z","src_ip":"[::1]:46020","src_port":0,"dst_port":0,"protocol":"tcp","raw_payload":"nggggggggggggg\n"}
