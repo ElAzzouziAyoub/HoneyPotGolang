@@ -1,0 +1,11 @@
+{
+  "listeners": [
+    { "port": 22, "protocol": "ssh" },
+    { "port": 80, "protocol": "http" }
+  ],
+  "limits": {
+    "max_payload_bytes": 4096,
+    "timeout_seconds": 10
+  }
+}
+
